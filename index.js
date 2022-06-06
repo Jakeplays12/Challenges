@@ -17,6 +17,6 @@ for (i = 0; i < 11; i++)
 }
 
 
-    console.log("\nBonus challenge\n")
+    console.log("\nBonus challenge\n(Find a second method to achieve the same results)\n")
 
     console.log("* * * * * \n* * * * * \n* * * * * \n* * * * * \n* * * * * \n")
