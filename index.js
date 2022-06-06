@@ -11,7 +11,12 @@ console.log("\n10 X 10 Square.\n")
 
 var i;
   
-for (i = 0; i < 10; i++) 
+for (i = 0; i < 11; i++) 
 {
     console.log("* * * * * * * * * *");
 }
+
+
+    console.log("\nBonus challenge\n")
+
+    console.log("* * * * * \n* * * * * \n* * * * * \n* * * * * \n* * * * * \n")
