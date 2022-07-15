@@ -1,4 +1,4 @@
-const Number = "2";
+const Number = "NUMBER";
 
 const Result = (Number % 2 == 0) ? "even" : "odd";
 
