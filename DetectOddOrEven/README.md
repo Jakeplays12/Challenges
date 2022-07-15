@@ -11,3 +11,6 @@ If the number is odd the message in the terminal will be "The number is odd".
 **If The Number Is Even**
 
 If the number is even the message in the terminal will be "The number is even".
+
+
+I used [This Website](https://www.programiz.com/javascript/examples/even-odd#:~:text=In%20the%20above%20program%2C%20number,Hence%2C%20the%20number%20is%20odd.) For help understanding this.
