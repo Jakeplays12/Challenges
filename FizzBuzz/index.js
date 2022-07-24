@@ -1,4 +1,4 @@
-const Number = "15";
+const Number = "NUMBER";
 
     if (Number % 15 == 0) console.log("FizzBuzz");
     else if (Number % 3 == 0) console.log("Fizz");
